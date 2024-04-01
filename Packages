@@ -1,6 +1,7 @@
 Package: com.hhnios.rootless
 Architecture: iphoneos-arm64
 Version: 2.0
+Section: Map Liên Quân
 Maintainer: Rootless LQM
 Installed-Size: 10000
 Depends: mobilesubstrate
