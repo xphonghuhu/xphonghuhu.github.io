@@ -33,3 +33,21 @@ Description: AOV Mod Menu (Rootless)
 Name: AOV Mod Menu 2.5 (Rootless)
 Author: Harry Vu
 Icon: https://avatars.githubusercontent.com/u/137310130?v=4
+
+Package: com.harryvu.foottext
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Harry Vu
+Installed-Size: 10000
+Depends: mobilesubstrate
+Filename: ./DEBS/com.harryvu.foottext_1.0_iphoneos-arm64.deb
+Size: 5068
+MD5sum: 867a0a3eaf8d67dc54291f0edfd005c3
+SHA1: c38ff656851fe1a57935f529aeedb464f2260b0c
+SHA256: 24a8e78d0e42bd32d4eb8983413a7c7ed2abbfce96be26ef3192957d7bb0c021
+SHA512: 3cee16df9ddf846a8c455aa3813f97b0ead65e469282e31cdc9d5a770482409ca888ecd53d0da5fb05de7d102834201f163f94991ff04d5ed6d8ad892c30e5e5
+Description: FootText By Harry
+Name: FPS Rainbow Color
+Author: Harry Vu
+Icon: https://avatars.githubusercontent.com/u/137310130?v=4
