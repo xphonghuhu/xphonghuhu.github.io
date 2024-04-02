@@ -70,7 +70,7 @@ Package: com.harryvu.foottext
 Architecture: iphoneos-arm64
 Version: 2.5
 Section: Tweaks
-Maintainer: Harry Vu
+Maintainer: HarryVu
 Installed-Size: 10000
 Depends: mobilesubstrate
 Filename: ./DEBS/com.harryvu.foottext_2.5_iphoneos-arm64.deb
@@ -79,5 +79,5 @@ MD5sum: 678388f0caa4e18dd0dd9a7f1635c295
 SHA1: b6aa4b38cd7bc95e2774b206474d43beaf0aae04
 Description: FootText By Harry
 Name: FPS Rainbow Color
-Author: Harry Vu
+Author: HarryVu
 Icon: https://avatars.githubusercontent.com/u/137310130?v=4
