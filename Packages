@@ -5,12 +5,30 @@ Section: Map Liên Quân
 Maintainer: Rootless LQM
 Installed-Size: 10000
 Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.rootless_2.0_iphoneos-arm64.deb
+Filename: ./DEBS/com.hhnios.rootless_2.0_iphoneos-arm64.deb
 Size: 3567428
 MD5sum: 53a68a5d9cb90ecea19985aa7996dd75
 SHA1: 7da6473b9245f11467adee2e46f4e1fabc9a2d7d
 SHA256: acf5f429a4a19ceb3c03c8b05f9099be75886d742c7acabba897c8f29666ee56
 SHA512: 5ec32b96838f6ba533942f38395ee0fea89d3664163bf9d806e9c0ba52b5411c7b73380a4e5b89ea3d62044716cf8987a48187808e202431b2659472747fb836
+Description: AOV Mod Menu (Rootless)
+Name: AOV Mod Menu (Rootless)
+Author: Harry Vu
+Icon: https://avatars.githubusercontent.com/u/137310130?v=4
+
+Package: com.hhnios.rootless
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Map Liên Quân
+Maintainer: Rootless LQM
+Installed-Size: 10000
+Depends: mobilesubstrate
+Filename: ./DEBS/com.hhnios.rootless_2.5_iphoneos-arm64.deb
+Size: 3566108
+MD5sum: 8784d5c19cf44865773c036a82e4a781
+SHA1: 7541f110c2250ee4a0352c669a1d110d1ae80839
+SHA256: b2134ed40a727cbd9b385c4d94e26cfa01ce982f8760a7c71054d77d6356a67b
+SHA512: e051f9d790be2620038ec12c2494619286e9a0c2c380d0777a0244338d3490186f6ebdf2e087d2341763eb5a78f44968b9df5b7bba9f3ffa75cd8abef3056501
 Description: AOV Mod Menu (Rootless)
 Name: AOV Mod Menu (Rootless)
 Author: Harry Vu
