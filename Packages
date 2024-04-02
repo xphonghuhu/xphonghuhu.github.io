@@ -68,7 +68,7 @@ Icon: https://avatars.githubusercontent.com/u/137310130?v=4
 
 Package: com.harryvu.foottext
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 2.5
 Section: Tweaks
 Maintainer: Harry Vu
 Installed-Size: 10000
