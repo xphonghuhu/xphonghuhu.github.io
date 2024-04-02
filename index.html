@@ -5,22 +5,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Harry Vu</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.4/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/your-font-awesome-kit.js" crossorigin="anonymous"></script>
 </head>
 
-<body>
-    <header>
-        <h1>Harry Vu Repo</h1>
+<body class="bg-gray-100">
+    <header class="bg-gray-800 py-4">
+        <h1 class="text-white text-2xl text-center">Harry Vu Repo</h1>
     </header>
-    <main>
-        <h2>Thêm vào trình quản lý của bạn</h2>
-        <menu>
-            <li><a class="Sileo" href="sileo://source/https://xphonghuhu.github.io">Sileo</a>
+    <main class="container mx-auto py-8">
+        <h2 class="text-2xl mb-4">Thêm vào trình quản lý của bạn</h2>
+        <menu class="flex justify-center">
+            <li class="mr-4">
+                <a class="text-blue-500 hover:text-blue-700" href="sileo://source/https://xphonghuhu.github.io">
+                    <i class="fab fa-sileo mr-2"></i>Sileo
+                </a>
             </li>
-            <li><a class="Zebra" href="zbra://sources/add/https://xphonghuhu.github.io">Zebra</a>
+            <li class="mr-4">
+                <a class="text-purple-500 hover:text-purple-700" href="zbra://sources/add/https://xphonghuhu.github.io">
+                    <i class="fas fa-zebra mr-2"></i>Zebra
+                </a>
             </li>
-            <li><a class="Installer" href="installer://add/https://xphonghuhu.github.io">Installer</a>
+            <li class="mr-4">
+                <a class="text-green-500 hover:text-green-700" href="installer://add/https://xphonghuhu.github.io">
+                    <i class="fas fa-store mr-2"></i>Installer
+                </a>
             </li>
-            <li><a class="cydia" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://xphonghuhu.github.io">Cydia</a>
+            <li class="mr-4">
+                <a class="text-red-500 hover:text-red-700" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://xphonghuhu.github.io">
+                    <i class="fab fa-apple mr-2"></i>Cydia
+                </a>
             </li>
         </menu>
     </main>
