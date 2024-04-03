@@ -81,3 +81,21 @@ Description: FootText By Harry
 Name: FPS Rainbow Color
 Author: HarryVu
 Icon: https://avatars.githubusercontent.com/u/137310130?v=4
+
+Package: com.harryvu.jitmenu
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Harry Vu
+Installed-Size: 10000
+Depends: mobilesubstrate
+Filename: ./DEBS/com.harryvu.jitmenu_2.0_iphoneos-arm64.deb
+Size: 298198
+MD5sum: f60a1649bd291b2833c6ba87c8fb65af
+SHA1: 9632d1b2adefb458984b520f60b1947b9def0727
+SHA256: 48262008fff216ac538c6a03c23472f367ad90250d8615386d61553e107360a1
+SHA512: 6a84af3699bfd6c12cd8b3c4435f791ff4a0adcf63794670116cadd3796996db449f0772d9e6d7d6b83f772010de90be44b91831595ee7c0b34d6e07a1f42deb
+Description: IMGUI MOD MENU
+Name: JIT MENU
+Author: Harry
+Icon: https://avatars.githubusercontent.com/u/137310130?v=4
