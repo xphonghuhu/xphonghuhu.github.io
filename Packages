@@ -135,3 +135,20 @@ Description: IMGUI MOD MENU
 Name: JIT MENU
 Author: Harry
 Icon: https://avatars.githubusercontent.com/u/137310130?v=4
+Package: com.harryvu.jitmenuvip
+Architecture: iphoneos-arm64
+Version: 4.0
+Section: Tweaks
+Maintainer: Harry Vu
+Installed-Size: 10000
+Depends: mobilesubstrate
+Filename: ./DEBS/com.harryvu.jitmenuvip_4.0_iphoneos-arm64.deb
+Size: 383724
+MD5sum: a1d2eaf3f49e33dcea0e6f301e1bc0c9
+SHA1: 79abbb5bdd8dd9f0a3f0fd5d20c7f82a0d41fd24
+SHA256: ec9ae011c2b0a9fe29c1a6dd1091784758d909f7b28013a327196ad1bdaf3261
+SHA512: a24233ce8d6760eaf7a374701cd535e70ad97c8192a6aa851f2013cc1bf9e44b7009ff32560265d63f9c639fc9133ece922ec1a20f3e54224f769e29fb54750c
+Description: IMGUI MOD MENU
+Name: JIT MENU
+Author: Harry
+Icon: https://avatars.githubusercontent.com/u/137310130?v=4
